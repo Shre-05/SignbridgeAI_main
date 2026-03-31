@@ -60,6 +60,6 @@ SignBridge AI is a web-based accessibility tool that bridges communication gaps 
 ---
 
 ## Live at-
-https://shorturl.at/mZAsF
+https://shorturl.at/NLqsE
 
-https://signbridgeai-o7o.caffeine.xyz/#caffeineAdminToken=ec03aca110078e1f0a8f99bfe6e05c1ca3a0d8eca4cf2227979480c227246f18
+https://signbridgeai-o7o.caffeine.xyz/#caffeineAdminToken=04d93fca25e58e2d54f3a87e4aadc2412b964ea6d7f25f43c0c04dba62aabb33
